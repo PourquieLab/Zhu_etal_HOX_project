@@ -34,4 +34,4 @@ Analyses were run in Python 3.9.18 (packaged by conda-forge) using the following
 
 The list of dependencies can be found in each notebook uploaded. 
 
-AnnData .h5ad files to reproduce the figures are available in Zenodo. 
+AnnData .h5ad files to reproduce the figures are available in Zenodo (doi: 10.5281/zenodo.19039249). 
