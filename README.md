@@ -1,7 +1,7 @@
 # Zhu et al.  *"Defective human somitogenesis in the absence of HOX genes"* scRNA-Seq analysis
 #### Code used for the 10x scRNA-Seq analysis in the manuscript *"Defective human somitogenesis in the absence of HOX genes"* by Zhu et al. 
 
-# All fastq and count matrices have been deposited in GEO under the accession number GSE288370
+All fastq and count matrices have been deposited in GEO under the accession number GSE288370
 
 This repository contains the following jupyter notebooks organized by theme: 
 ##### *Analysis of the WT sample*: 
