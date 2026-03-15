@@ -1,6 +1,8 @@
 # Zhu et al.  *"Defective human somitogenesis in the absence of HOX genes"* scRNA-Seq analysis
 #### Code used for the 10x scRNA-Seq analysis in the manuscript *"Defective human somitogenesis in the absence of HOX genes"* by Zhu et al. 
 
+# All fastq and count matrices have been deposited in GEO under the accession number GSE288370
+
 This repository contains the following jupyter notebooks organized by theme: 
 ##### *Analysis of the WT sample*: 
 - 20240924_HOXWT-individualanalysis-Upload 
@@ -31,4 +33,5 @@ Analyses were run in Python 3.9.18 (packaged by conda-forge) using the following
 - notebook 7.1.0
 
 The list of dependencies can be found in each notebook uploaded. 
-We also provide processed AnnData .h5ad files to reproduce the figures.
+
+AnnData .h5ad files to reproduce the figures are available in Zenodo. 
