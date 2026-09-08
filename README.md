@@ -14,7 +14,7 @@ This repository contains the following jupyter notebooks organized by theme:
 - 20241017_HOX_singlecell_project-Downstream_Upload 
 - 20241017_HOX_singlecell_project-Subsampling-Upload
 ##### *Additional plots requested during the revision process:* 
-- 20251220_HOX_singlecell_revision-Upload 
+- 20251220_HOX_singlecell_revision_Part1-Upload
 - 20251220_HOX_singlecell_revision-part2_Upload
 - 20260805_HOX_singlecell_revision-part3_Upload
 - 20260831_HOX_singlecell_revision-part4_Upload
