@@ -2,7 +2,7 @@
 #### Code used for the 10x scRNA-Seq analysis in the manuscript *"Defective human somitogenesis in the absence of HOX genes"* by Zhu et al. 
 
 All fastq and count matrices have been deposited in GEO under the accession number GSE288370
-Input count matrices and H5AD can be found in the Zenodo repository
+Input count matrices and H5AD can be found in the Zenodo repository (https://doi.org/10.5281/zenodo.22663042)
 
 This repository contains the following jupyter notebooks organized by theme: 
 ##### *Analysis of the WT sample*: 
@@ -35,4 +35,4 @@ Analyses were run in Python 3.9.18 (packaged by conda-forge) using the following
 
 The list of dependencies can be found in each notebook uploaded. 
 
-AnnData .h5ad files to reproduce the figures are available in Zenodo:
+AnnData .h5ad files to reproduce the figures are available in Zenodo: https://doi.org/10.5281/zenodo.22663042 
